@@ -197,4 +197,4 @@ This repository serves as the official landing page for **Exodus**. The software
 **Get the most recent version of Exodus today!**
 
 ---
-**Last updated:** 2026-11-09 07:42:22 UTC
+**Last updated:** 2026-11-09 18:27:06 UTC
